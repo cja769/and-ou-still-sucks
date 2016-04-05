@@ -1,0 +1,3 @@
+To run this extension open up Chrome, click on the options button, go to tools->extensions. Check the box that says "Developer Mode" which will give some options. Select "Load unpacked extension...". Navigate to the directory holding all of this data. After it uploads then it will be active. Just navigate to pages. I would suggest the ou.edu or their wikipedia page.
+
+Thank you and remember...OU SUCKS!!
